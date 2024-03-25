@@ -5,5 +5,6 @@ root.py
 TOKEN = ""
 ```
 ```python
-pip install aiogram ```
+pip install aiogram
+```
 
