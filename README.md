@@ -3,6 +3,6 @@
 root.py
 ```python
 TOKEN = ""
-```
+```shell
 ``` pip install aiogram ```
 
